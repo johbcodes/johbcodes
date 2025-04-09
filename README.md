@@ -21,7 +21,8 @@ I'm a full-stack developer passionate about building scalable web applications, 
 
 [![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](#)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+ 
 [![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)](#)
 
