@@ -38,7 +38,7 @@ I'm a full-stack developer passionate about building scalable web applications, 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/biwottjoseah)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joseahbiwott/)
 
 ---
 
