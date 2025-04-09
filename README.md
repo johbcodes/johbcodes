@@ -11,12 +11,17 @@ I'm a full-stack developer passionate about building scalable web applications, 
 [![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge)](#)
+
 [![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
+
 [![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](#)
+
 [![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)](#)
 
