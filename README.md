@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joseah Biwott
 
 I'm a full-stack developer passionate about building scalable web applications, automating workflows, and exploring emerging technologies like AI and blockchain. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
@@ -24,30 +24,15 @@ I'm a full-stack developer passionate about building scalable web applications, 
 
 ---
 
-## 📌 Featured Projects
-
-- [🚀 AI PDF Chatbot](https://github.com/yourusername/pdf-chatbot)  
-  Chat with any PDF using GPT + Whisper. Built with Node.js, LangChain, and React.
-
-- [📱 Mobile Expense Tracker](https://github.com/yourusername/expense-tracker)  
-  Cross-platform app built with Flutter for managing personal finances.
-
-- [💼 Developer Portfolio](https://github.com/yourusername/portfolio)  
-  Personal portfolio site built with Next.js and hosted on Vercel.
-
----
-
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=johbcodes&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johbcodes&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌐 [Website](https://yourdomain.com)
-- 📨 [Email](mailto:you@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/biwottjoseah)
 
 ---
 
