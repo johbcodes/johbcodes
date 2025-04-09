@@ -6,14 +6,20 @@ I'm a full-stack developer passionate about building scalable web applications, 
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)](#)
+
 
 ---
 
